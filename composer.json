@@ -1,0 +1,19 @@
+{
+	"name": "cedaro/widget-whitelist",
+	"description": "A simple class to whitelist widgets in WordPress sidebars.",
+	"homepage": "https://github.com/cedaro/widget-whitelist",
+	"license": "GPL-2.0+",
+	"authors": [
+		{
+			"name": "Brady Vercher",
+			"email": "brady@blazersix.com",
+			"homepage": "http://www.cedarocom/"
+		}
+	],
+	"autoload": {
+		"classmap": ["src/"]
+	},
+	"require": {
+		"php": ">=5.2.0"
+	}
+}
